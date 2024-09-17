@@ -1,0 +1,9 @@
+body{
+    background-color: brown;
+}
+button{
+    border: none;
+    padding: 5px 13px;
+    border-radius: 4px;
+    box-shadow: inset;
+}
