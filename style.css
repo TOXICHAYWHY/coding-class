@@ -1,9 +1,17 @@
 body{
     background-color: brown;
+   /* background: yellow, ur;*/
+   background-image: url(code.avif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   min-height: 300vh;
 }
 button{
     border: none;
     padding: 5px 13px;
-    border-radius: 4px;
-    box-shadow: inset;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 2px  4px 15px gray;
 }
